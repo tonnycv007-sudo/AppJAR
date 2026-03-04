@@ -88,7 +88,7 @@
 
     <div class="footer">
       Última actualización: <?= $fecha ?><br>
-      Hecho por: <strong>Tonny</strong>
+      Hecho por: <strong>Tonny Cordova</strong>
     </div>
   </div>
 
